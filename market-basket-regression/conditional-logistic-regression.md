@@ -44,5 +44,10 @@
 * 그래도 설명 변수가 너무 많다면, $$Zi$$의 profile을 보고 서로 비슷한 $$Zi$$끼리는 묶는다.
 * step 2와 마찬가지로, 부스팅 모형을 사용하면 예측력을 높일 수 있다.
 
+## References
+
+* [조건부 로지스틱 회귀분석을 사용한 논문](https://goo.gl/MQdf42)
+* [Wikipedia](https://en.wikipedia.org/wiki/Conditional_logistic_regression)
+
 
 
