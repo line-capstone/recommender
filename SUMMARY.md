@@ -11,6 +11,7 @@
 * [Market basket regression](market-basket-regression/README.md)
   * [Market Basket Analysis](market-basket-regression/market-basket-analysis.md)
   * [Conditional Logistic Regression](market-basket-regression/conditional-logistic-regression.md)
+* [분류 예측 평가 방법](undefined-1.md)
 * [Collaborative filtering](collaborative-filtering.md)
 * [Contents-based filtering](contents-based-filtering.md)
 
