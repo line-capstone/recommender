@@ -8,7 +8,9 @@
   * [연관성 분석의 절차](undefined/undefined-1.md)
   * [연관성 분석의 장단점](undefined/undefined-2.md)
   * [연관성 분석의 실습](undefined/undefined-3.md)
-* [Market basket regression](market-basket-regression.md)
+* [Market basket regression](market-basket-regression/README.md)
+  * [Market Basket Analysis](market-basket-regression/market-basket-analysis.md)
+  * [Conditional Logistic Regression](market-basket-regression/conditional-logistic-regression.md)
 * [Collaborative filtering](collaborative-filtering.md)
 * [Contents-based filtering](contents-based-filtering.md)
 
