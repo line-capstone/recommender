@@ -11,7 +11,9 @@
 
 ![Chapter 07 - Evaluating recommender systems - UCI Math](../.gitbook/assets/rankscore.PNG)
 
+## References
 
+* [Recommender systems - UCI Math](https://www.math.uci.edu/icamp/courses/math77b/lecture_12w/pdfs/Chapter%2007%20-%20Evaluating%20recommender%20systems.pdf)
 
 
 
