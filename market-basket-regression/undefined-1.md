@@ -31,3 +31,8 @@
 * AUC는 ROC curve 아래의 면적을 말한다. 
 * 1-Precision 대비 Recall 값이 클수록 AUC가 1에 가까운 값이며, 넓이가 클수록 좋은 성능의 모델이다.
 
+## References
+
+* [분류 성능 평가 - 데이터 사이언스 스쿨](https://datascienceschool.net/view-notebook/731e0d2ef52c41c686ba53dcaf346f32/)
+* [분류 성능 평가 - Hydrangeana](http://sherry-data.tistory.com/4)
+
